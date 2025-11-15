@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# 🚀 Suresh Mahato | Full Stack Developer | React, Node.js & Python Expert
+# 🚀 Suresh Mahato | Full Stack Developer | React, Node.js & Python
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Suresh+Mahato;Full+Stack+Developer+%7C+React%2C+Node.js+%26+Python;Building+AI-Driven+Solutions+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;5%2B+Years+Experience+%7C+Top+20%25+Student">
