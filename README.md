@@ -239,7 +239,7 @@ E-commerce management, inventory systems, social media marketing
 <a href="https://fb.com/ssblucky70">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="https://instagram.com/s.s.b_lucky_7">
+<a href="https://www.instagram.com/ssb_lucky7/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://codepen.io/ssblucky7">
