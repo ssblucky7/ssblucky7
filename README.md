@@ -3,7 +3,7 @@
   Portfolio: https://sureshmahato.com.np/ | GitHub Profile | Web Developer | AI Integration Specialist
   Location: Kathmandu, Nepal | Available for Remote Work
   Skills: MERN Stack, TypeScript, AWS, Azure, Docker, SEO, Digital Marketing
-  Contact: ssblucky07@gmail.com | +977-9826872664
+  Contact: ssblucky07@gmail.com
 -->
 
 <div align="center">
@@ -51,7 +51,6 @@ const sureshMahato = {
     
     contact: {
         email: "ssblucky07@gmail.com",
-        phone: "+977-9826872664",
         linkedin: "linkedin.com/in/ssblucky7",
         github: "github.com/ssblucky7"
     },
@@ -295,7 +294,7 @@ E-commerce management, inventory systems, social media marketing
 
 ### ⭐ Suresh Mahato [@ssblucky7](https://github.com/ssblucky7) | Full Stack Developer Portfolio
 
-**📧 Email:** ssblucky07@gmail.com | **📱 Phone:** +977-9826872664  
+**📧 Email:** ssblucky07@gmail.com  
 **🔗 LinkedIn:** [linkedin.com/in/ssblucky7](https://linkedin.com/in/ssblucky7) | **💻 GitHub:** [github.com/ssblucky7](https://github.com/ssblucky7)  
 **🌐 Portfolio:** [sureshmahato.com.np](https://sureshmahato.com.np/) | Available for Remote Work & Freelance Projects
 
