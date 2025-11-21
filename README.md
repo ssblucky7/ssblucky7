@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🚀 Suresh Mahato | Full Stack Developer | React, Node.js, Python, AI & Cloud Solutions
+# 🚀 Suresh Mahato | Full Stack Developer | AI & Cloud Solutions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Suresh+Mahato;Full+Stack+Developer+%7C+React%2C+Node.js%2C+Python%2C+AI+%26+Cloud;Building+AI-Driven+Solutions+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;BIT+Graduate+%7C+NCMT+College">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2D5C8F&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Suresh+Mahato;Full+Stack+Developer+%7C+React%2C+Node.js%2C+Python%2C+AI+%26+Cloud;Building+AI-Driven+Solutions+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;BIT+Graduate+%7C+NCMT+College">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Suresh+Mahato;Full+Stack+Developer+%7C+React%2C+Node.js%2C+Python%2C+AI+%26+Cloud;Building+AI-Driven+Solutions+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;BIT+Graduate+%7C+NCMT+College" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Suresh+Mahato;Full+Stack+Developer+%7C+AI+%26+Cloud+Solutions;Building+AI-Driven+Solutions+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;BIT+Graduate+%7C+NCMT+College">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2D5C8F&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Suresh+Mahato;Full+Stack+Developer+%7C+AI+%26+Cloud+Solutions;Building+AI-Driven+Solutions+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;BIT+Graduate+%7C+NCMT+College">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Suresh+Mahato;Full+Stack+Developer+%7C+AI+%26+Cloud+Solutions;Building+AI-Driven+Solutions+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;BIT+Graduate+%7C+NCMT+College" alt="Typing SVG" />
 </picture>
 
 <picture>
@@ -35,7 +35,7 @@
 const sureshMahato = {
     name: "Suresh Mahato",
     location: "Kathmandu, Nepal 🇳🇵",
-    role: "Full Stack Developer | React, Node.js, Python, AI & Cloud Solutions",
+    role: "Full Stack Developer | AI & Cloud Solutions",
     education: "BIT @ NCMT College (Lincoln University)",
     achievements: "40% ↑ orders | 20% ↑ satisfaction",
     
