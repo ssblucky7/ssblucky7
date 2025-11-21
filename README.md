@@ -123,16 +123,6 @@ const sureshMahato = {
 
 ## 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ssblucky7&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Achievements
-
 </div>
 
 ---
