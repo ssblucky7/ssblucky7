@@ -121,14 +121,6 @@ const sureshMahato = {
 
 <div align="center">
 
-## 🏆 GitHub Achievements
-
-</div>
-
----
-
-<div align="center">
-
 ## 🚀 Featured Projects
 
 </div>
