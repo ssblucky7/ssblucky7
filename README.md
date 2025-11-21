@@ -123,11 +123,7 @@ const sureshMahato = {
 
 ## 🏆 GitHub Achievements
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ssblucky7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ssblucky7&theme=flat&no-frame=true&no-bg=true&row=1&column=7">
-  <img src="https://github-profile-trophy.vercel.app/?username=ssblucky7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</picture>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ssblucky7&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
