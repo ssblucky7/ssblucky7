@@ -96,19 +96,6 @@ const sureshMahato = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssblucky7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/ssblucky7)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssblucky7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/ssblucky7)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ssblucky7&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
