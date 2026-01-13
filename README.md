@@ -2,7 +2,7 @@
 
 # 🚀 Suresh Mahato | Full Stack Developer
 
-### S.S.B Lucky 7 | ssblucky7
+### Suresh Mahato | ssblucky7
 
 <!-- SEO Keywords: Suresh Mahato, Suresh Mahato Nepal, Suresh Mahato GitHub, S.S.B Lucky 7, ssblucky7, Full Stack Developer Nepal, MERN Stack Developer, AI Developer Nepal, Web Developer Kathmandu, React Developer, Node.js Developer, Python Developer Nepal, SEO Expert Nepal, Cloud Solutions Nepal, BIT Student NCMT, Lincoln University Nepal -->
 
