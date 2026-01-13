@@ -100,11 +100,10 @@ const sureshMahato = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ssblucky7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=ssblucky7&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssblucky7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/ssblucky7)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssblucky7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/ssblucky7)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssblucky7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ssblucky7&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Coding Activity"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ssblucky7&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 </div>
 
@@ -207,7 +206,7 @@ const sureshMahato = {
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sureshmahato.com.np-00C7B7?style=for-the-badge)](https://sureshmahato.com.np/)
 [![Email](https://img.shields.io/badge/📧_Email-ssblucky07@gmail.com-EA4335?style=for-the-badge)](mailto:ssblucky07@gmail.com)
-[![Phone](https://img.shields.io/badge/📱_Phone-+977--9826872664-25D366?style=for-the-badge)](tel:+9779826872664)
+[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-+977--9826872664-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779826872664)
 
 </div>
 
