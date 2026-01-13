@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge)](https://sureshmahato.com.np/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suresh-mahato)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ssblucky7)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:ssblucky07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssblucky07@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ssblucky7&color=00D9FF&style=flat-square)
 
