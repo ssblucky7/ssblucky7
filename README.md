@@ -11,9 +11,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8B5CF6&height=200&section=header&text=Suresh%20Mahato&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20%26%20Software%20Developer%20%E2%80%94%20Kathmandu%2C%20Nepal&descAlignY=57&descSize=17" alt="Suresh Mahato — Web and Software Developer from Kathmandu, Nepal" />
+<img width="100%" src="assets/github-banner.jpg" alt="Suresh Mahato — Web and Software Developer from Kathmandu, Nepal" />
 
-<a href="https://sureshmahato.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5;React+%7C+Node.js+%7C+Python+%7C+TypeScript;AI+%26+Cloud+Solutions+Builder;SEO+Specialist+%7C+BIT+Student+%40+NCMT" alt="Suresh Mahato — Full Stack Developer in Nepal, React, Node.js, Python, TypeScript, AI and Cloud Solutions, SEO Specialist" /></a>
+<a href="https://sureshmahato.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+in+Nepal;React+%7C+Node.js+%7C+Python+%7C+TypeScript;AI+%26+Cloud+Solutions+Builder;SEO+Specialist+%7C+BIT+Student+%40+NCMT" alt="Suresh Mahato — Full Stack Developer in Nepal, React, Node.js, Python, TypeScript, AI and Cloud Solutions, SEO Specialist" /></a>
 
 <br />
 
@@ -218,5 +218,3 @@ I can help you **design, build, deploy and grow**: SEO-friendly business website
 _Last updated: 22 October 2026_
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8B5CF6&height=120&section=footer" alt="" />
