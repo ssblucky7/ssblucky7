@@ -23,7 +23,6 @@
 [![Email](https://img.shields.io/badge/Email-ssblucky07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssblucky07@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779826872664)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ssblucky7&color=00D9FF&style=flat-square&label=Profile%20Views)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Remote%20%7C%20Full--Time-success?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-blue?style=flat-square)
 
