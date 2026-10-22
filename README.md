@@ -153,7 +153,7 @@ An AI-assisted PDF analyzer that helps users extract text, summarize documents, 
 **Highlights:** PDF text extraction, smart Q&A, document summaries, productivity-focused workflow
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smartpdf.sureshmahato.com.np/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/ssblucky7/smartpdf-analyzer)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/ssblucky7/Smart-PDF-Web-App)
 
 ---
 
@@ -175,7 +175,7 @@ A smart cafe platform with chatbot support, voice ordering, loyalty features, an
 **Tech:** Node.js, PostgreSQL, OpenAI, Stripe  
 **Highlights:** AI chatbot, voice ordering, loyalty program, payment integration, real-time tracking
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ssblucky7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ssblucky7/cookies-cafe)
 
 ---
 
@@ -197,7 +197,7 @@ A multilingual learning platform with role-based access, course management, and 
 **Tech:** React.js, TypeScript, Vite, AI Integration  
 **Highlights:** Course creation, role-based dashboard, AI learning support, multilingual interface
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ssblucky7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ssblucky7/EdTech)
 
 ---
 
